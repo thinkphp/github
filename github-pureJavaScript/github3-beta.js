@@ -166,7 +166,7 @@ var githubbadge = function() {
            var name = repos[i].name;
 
            //get url
-           var url = repos[i].url;
+           var url = repos[i].html_url;
 
            //get description
            var description = repos[i].description;
@@ -220,7 +220,7 @@ var githubbadge = function() {
                                  var name = repos[i].name; 
 
                                  //grab url
-                                 var url = repos[i].url;
+                                 var url = repos[i].hmtl_url;
 
                                  //grab description
                                  var description = repos[i].description;
