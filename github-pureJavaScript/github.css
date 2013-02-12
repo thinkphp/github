@@ -1,0 +1,35 @@
+  #gitbadge{background: #222;width: 220px;color: #fff;padding:5px;border:4px solid #222;border-radius: 10px;-moz-border-radius: 10px;-webkit-border-radius: 10px}
+
+  #gitbadge span {font-family: arial,verdana,sans-serif,tahoma;font-weight: bold;}
+
+  #gitbadge #gitcontent {width: 220px;font-family: tohama;}
+
+  #gitbadge #gitcontent.js li ul{position: absolute;left: -9999px;}
+
+  #gitbadge #gitcontent.js li.open ul{position:relative;left:0;}
+
+  #gitbadge h3 button{border: none;background: transparent;color: #6EA3CC;font-weight: bold;}
+
+  #gitbadge #gitcontent,#gitcontent li{list-style:none;margin:0;padding:0}
+
+  #gitbadge #gitcontent ul{margin:0;padding: .5em;background: #585858;border-bottom: 1px solid #999}
+
+  #gitbadge #gitcontent button{display:block;width:100%;text-align:left;cursor: pointer}
+
+  #gitbadge #gitcontent a{color: #fff;text-decoration: none;font-family: arial;font-weight: bold;font-size: 12px}
+
+  #gitbadge #gitcontent h3{background: #222;border-bottom: 1px solid #999;margin: 0;padding:.2em;}
+
+  #gitbadge #gitcontent li.open h3{background: #4C4C4C;border-bottom:1px solid #585858;}
+
+  #gitbadge #gitcontent li.open h3 button{color: #FFD577}    
+
+  #gitbadge #gitprofile table{font-family: arial;font-size: 11px;font-weight: normal}   
+
+  #gitbadge #gitprofile img {padding: 1px;border: 1px solid #ccc;background: #000}
+
+  #gitbadge #more {margin-top: 5px}
+
+  #gitbadge #more a{color: #ccc;margin-left: 8px;text-decoration: none;font-weight: bold;}
+
+  #gitbadge #more a:hover{text-decoration: underline}
